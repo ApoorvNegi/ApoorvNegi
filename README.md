@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ApoorvNegi
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning intermediate level coding
-- 💞️ I’m looking to collaborate on works whcich can help me grow
+- 💞️ I’m looking to collaborate on works which can help me grow
 - 📫 How to reach me 
 -  apoorv6499@gmail.com
 
